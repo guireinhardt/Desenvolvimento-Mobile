@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Los Hermanos</string>
+    <string name="bemvindo">Bem Vindo a Los Hermanos! </string>
+    <string name="cadastar">Cadastre-se na Los Hermanos !</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_configuracoes">Configurações</string>
+    <string name="nav_inicio">Início</string>
+    <string name="nav_meus_pedidos">Meus Pedidos</string>
+    <string name="nav_fazer_pedido">Fazer Pedido</string>
+    <string name="nav_sair">Sair</string>
+    <string name="nav_abrir">Abrir</string>
+    <string name="nav_fechar">Fechar</string>
+</resources>
